@@ -52,7 +52,7 @@ body:after {
     width: 350px;
     height: 150px;
     z-index: 1;
-    background-image: url("https://github.com/FerSotoApse/roboflow_laboral-gijon/blob/main/logo-principado-laboral-720x258.png?raw=true");
+    background-image: url("https://fersotoapse.github.io/roboflow_laboral-gijon/logo.png");
     background-size: contain;
     background-repeat: no-repeat;
     background-position: bottom right;
