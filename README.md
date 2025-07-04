@@ -5,4 +5,5 @@ Modelo de Roboflow de detección de objetos, utilizando imágenes propias de la 
 Para uso público, se pueden usar los links
 
 **Modelo**: elementos_arquitectonicos-object-detection/1
+
 **Dataset**: fervisionado/elementos_arquitectonicos-object-detection-instant-1
