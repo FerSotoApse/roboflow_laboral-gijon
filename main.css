@@ -52,10 +52,11 @@ body:after {
     width: 350px;
     height: 150px;
     z-index: 1;
-    background-image: url("https://github.com/FerSotoApse/roboflow_laboral-gijon/blob/main/logo-principado-laboral-720x258.png");
+    background-image: url("https://github.com/FerSotoApse/roboflow_laboral-gijon/blob/main/logo-principado-laboral-720x258.png?raw=true");
     background-size: contain;
     background-repeat: no-repeat;
     background-position: bottom right;
+    filter: drop-shadow(0 0 10px #FFF);
 }
 
 #fps {
