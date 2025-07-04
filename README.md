@@ -1,6 +1,8 @@
 # Roboflow: detección de objetos
 Modelo de Roboflow de detección de objetos, utilizando imágenes propias de la Universidad Laboral de Gijón como entrenamiento de detección de elementos arquitectónicos de fachada.
 
+https://fersotoapse.github.io/roboflow_laboral-gijon/
+
 ## ID en Universe
 Para uso público, se pueden usar los links
 
